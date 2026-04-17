@@ -1,2 +1,2 @@
 # roc_prac_druhak
-prvni_hodina: zalozeni github repositarem, zjistovani co je Polda
+prvni_hodina: zalozeni github repositarem, zjistovani co je Polda, přemýšlení o tom jak to udělám
